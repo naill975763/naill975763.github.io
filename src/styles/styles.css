@@ -11676,3 +11676,8 @@ body {
   margin-bottom: 2rem;
   border-color: rgb(255 255 255 / 0.4);
 }
+
+.link {
+  color: #3b82f6;
+  text-decoration: underline;
+}
